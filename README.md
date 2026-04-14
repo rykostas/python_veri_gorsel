@@ -1,2 +1,2 @@
-# python_veri_gorsel
-python_veri_gorsellestirme ornekleri
+# Python ile veri görselleştirme materyalleri
+
